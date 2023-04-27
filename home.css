@@ -1,0 +1,10 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 70px;
+  color: white;
+}
